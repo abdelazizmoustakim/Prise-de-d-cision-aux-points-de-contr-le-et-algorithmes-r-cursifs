@@ -1,3 +1,5 @@
+// recursive
+
 function fibonacci(x) {
     if (x <= 1) {
         return x;
